@@ -1,5 +1,5 @@
 # Introduction
-Power BI is a powerful business analytics tool developed by Microsoft that enables users to visualize data and share insights across their organizations or embed them in an app or website. It is essential for several reasons:
+This Project help me to understand the importance of Power BI in the market which enables users to visualize data and share insights across their organizations or embed them in an app or website. It is essential for several reasons:
 
 1. **Data Visualization**: Power BI transforms raw data into interactive and visually appealing reports and dashboards, making it easier to understand and analyze data.
   
@@ -35,7 +35,12 @@ For this project i used:
   
   **Excel:** Is the storage of data came from the survey taken.
 
-# The Breakdown Analysis Visualization
+# The Breakdown Analysis Visualization report.
 
-![Breakdown](assets/breakdown.png)
+![Breakdown](breakdown.png)
+
+
+
+
+
 
