@@ -37,7 +37,7 @@ For this project i used:
 
 # The Breakdown Analysis Visualization report.
 
-![Breakdown](breakdown.png)
+![Breakdown](assets/breakdown.png)
 
 
 
